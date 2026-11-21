@@ -64,6 +64,5 @@ All 7,043 customer records were retained.
 
 1. Open `MSCS_634_ProjectDeliverable_1.ipynb` in Jupyter or Google Colab.
 2. Run the cells from top to bottom. The first code cell downloads the public IBM CSV if a local copy is unavailable.
-3. For an offline run, place the CSV beside the notebook as `Telco-Customer-Churn.csv`.
 
 **Requirements:** Python 3 with `pandas`, `seaborn` and `matplotlib`.
